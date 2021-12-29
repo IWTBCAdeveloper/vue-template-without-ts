@@ -1,4 +1,8 @@
 # vue-template-without-ts
+## Environment
+```
+copy .env.example to .env
+```
 
 ## Project setup
 ```
